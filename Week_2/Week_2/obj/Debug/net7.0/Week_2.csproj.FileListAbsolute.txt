@@ -1,0 +1,30 @@
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\bin\Debug\net7.0\Week_2.exe
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\bin\Debug\net7.0\Week_2.deps.json
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\bin\Debug\net7.0\Week_2.runtimeconfig.json
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\bin\Debug\net7.0\Week_2.dll
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\bin\Debug\net7.0\Week_2.pdb
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.dll
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\refint\Week_2.dll
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.pdb
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\Week_2.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\.NET Decagon\Week_2\Week_2\obj\Debug\net7.0\ref\Week_2.dll
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.dll
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\refint\Week_2.dll
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.pdb
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\bin\Debug\net7.0\Week_2.exe
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\bin\Debug\net7.0\Week_2.deps.json
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\bin\Debug\net7.0\Week_2.runtimeconfig.json
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\bin\Debug\net7.0\Week_2.dll
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\bin\Debug\net7.0\Week_2.pdb
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\Week_2.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\net7.0\ref\Week_2.dll

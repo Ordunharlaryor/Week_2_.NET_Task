@@ -1,0 +1,5 @@
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\netcoreapp3.1\Week_2.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\netcoreapp3.1\Week_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\netcoreapp3.1\Week_2.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\netcoreapp3.1\Week_2.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\week-2-Ordunharlaryor\Week_2\Week_2\obj\Debug\netcoreapp3.1\Week_2.csproj.CoreCompileInputs.cache
